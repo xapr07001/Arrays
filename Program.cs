@@ -7,10 +7,10 @@ while(!win){
     player = !player;
 
     for(int x = 0; x < gameboard.GetLength(0);x++){
-    for(int y = 0; y < gameboard.GetLength(1);y++){
-        Console.Write(gameboard[x,y]);
+        for(int y = 0; y < gameboard.GetLength(1);y++){
+            Console.Write(gameboard[x,y]);
         }
-    Console.WriteLine();
+        Console.WriteLine();
     }
     win = WinCheck();
 }
@@ -63,14 +63,16 @@ void Play(ref bool p){
     char ox;
     if(p){
         ox = 'x';
+        Console.WriteLine("Player 2 turn");
     }else{
         ox = 'o';
+        Console.WriteLine("Player 1 turn");
     }
     
-    Console.WriteLine("Ange...");
+    Console.Write("x coordinate: ");
     int b = int.Parse(Console.ReadLine());
 
-    Console.WriteLine("Ange...");
+    Console.Write("y coordinate: ");
     int a = int.Parse(Console.ReadLine());
 
 
