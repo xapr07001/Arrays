@@ -1,0 +1,15 @@
+C:\GitHub\Arrays\bin\Debug\net8.0\Arrays.exe
+C:\GitHub\Arrays\bin\Debug\net8.0\Arrays.deps.json
+C:\GitHub\Arrays\bin\Debug\net8.0\Arrays.runtimeconfig.json
+C:\GitHub\Arrays\bin\Debug\net8.0\Arrays.dll
+C:\GitHub\Arrays\bin\Debug\net8.0\Arrays.pdb
+C:\GitHub\Arrays\obj\Debug\net8.0\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\Arrays\obj\Debug\net8.0\Arrays.AssemblyInfoInputs.cache
+C:\GitHub\Arrays\obj\Debug\net8.0\Arrays.AssemblyInfo.cs
+C:\GitHub\Arrays\obj\Debug\net8.0\Arrays.csproj.CoreCompileInputs.cache
+C:\GitHub\Arrays\obj\Debug\net8.0\Arrays.sourcelink.json
+C:\GitHub\Arrays\obj\Debug\net8.0\Arrays.dll
+C:\GitHub\Arrays\obj\Debug\net8.0\refint\Arrays.dll
+C:\GitHub\Arrays\obj\Debug\net8.0\Arrays.pdb
+C:\GitHub\Arrays\obj\Debug\net8.0\Arrays.genruntimeconfig.cache
+C:\GitHub\Arrays\obj\Debug\net8.0\ref\Arrays.dll
