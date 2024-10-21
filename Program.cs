@@ -71,10 +71,9 @@ void Play(ref bool p){
     
     Console.Write("x coordinate: ");
     int b = int.Parse(Console.ReadLine());
-
     Console.Write("y coordinate: ");
-    int a = int.Parse(Console.ReadLine());
-
+    int n = int.Parse(Console.ReadLine());
+    int a = Math.Abs(n-3)+1;
 
 
     if(gameboard[a-1,b-1] == '-'){
